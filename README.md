@@ -1,0 +1,1 @@
+# Input-data-dan-disimpan-di-array-dan-menampilkan-nilai-maksimum-dan-minimum
